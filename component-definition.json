@@ -331,7 +331,7 @@
           }
         },
         {
-          "title": "Quote",
+          "title": "Quote 1234",
           "id": "quote",
           "plugins": {
             "xwalk": {
