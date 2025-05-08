@@ -43,7 +43,7 @@ var script1 = document.createElement('script');
     });
 
     async function getOffer(ECID) {
-        var url = "https://edge.adobedc.net/ee/irl1/v1/interact?configId=045c5ee9-468f-47d5-ae9b-a29788f5948f";
+        var url = "https://edge.adobedc.net/ee/irl1/v1/interact?configId=d4039353-b7db-4681-83ba-a81a8c8c487a";
       
         var timestamp = new Date().toISOString();
       
